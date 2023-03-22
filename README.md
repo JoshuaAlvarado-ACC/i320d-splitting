@@ -1,3 +1,3 @@
 # i320d-splitting
 
-this is the first line that i'm adding :)
+i actually didn't like that first line, so I'm replacing it.
